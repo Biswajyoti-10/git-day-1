@@ -8,6 +8,6 @@ Day 1: Today I learned about:
 
 Day 2: Today I learned about Git branches
 
-
+and pull and push to remote repositories
 
 
