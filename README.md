@@ -6,4 +6,6 @@ Today I learned:
 - staging
 - GitHub
 
+Day 3:
 
+Today I learned about Pull Requests
